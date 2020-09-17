@@ -1,0 +1,18 @@
+{
+    "/js/ajaxSetup-header.js": "/js/ajaxSetup-header.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/blog.js": "/js/blog.js",
+    "/js/category.js": "/js/category.js",
+    "/js/common.js": "/js/common.js",
+    "/js/createProduct.js": "/js/createProduct.js",
+    "/js/deleteProduct.js": "/js/deleteProduct.js",
+    "/js/deleteUser.js": "/js/deleteUser.js",
+    "/js/editProduct.js": "/js/editProduct.js",
+    "/js/feedback.js": "/js/feedback.js",
+    "/js/form-datatable.js": "/js/form-datatable.js",
+    "/js/order.js": "/js/order.js",
+    "/css/product.css": "/css/product.css",
+    "/css/admin.css": "/css/admin.css",
+    "/css/order.css": "/css/order.css"
+}
